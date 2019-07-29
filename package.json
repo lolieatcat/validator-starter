@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "iwan-sdk": "github:wanchain/iwan-js-sdk#pos-beta",
+    "ko-sleep": "^1.0.3",
+    "promisefy-util": "^1.2.0"
+  }
+}
